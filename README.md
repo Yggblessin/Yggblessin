@@ -2,7 +2,7 @@
 
 Is the name I use online. mostly for stuff I don't think my real name is necessary, I usually work on the mix of data/game designing/and a bit of web development. Also, I pretty much learning the kinds of stuff I want here and there and hope it comes up
 
-![image](https://cdn.discordapp.com/attachments/523873121741176833/1193832302220951552/TDCHAKAFAE.png?ex=65ae25f9&is=659bb0f9&hm=2bf087aa66a5be4e5d554029e607e1a8f6501639a31b21885b7fa822534d8f45&)
+![image](https://files.catbox.moe/s9xbmj.png)
 ## Funny Stuff
 - **IT Bits**
   - C, C# and C++ 
