@@ -27,9 +27,9 @@ Using Unity game engine I decide to make a Virtual Colour blindness test. So I c
 
 This project qualified for regional NSC and 2 Gold medals 2 Years back-to-back at STEM Program presentation. although grew up knowing that this software is such a mess and doesn't serve a lot of purposes, it is still something, a 17~18-Year-old doing a project about Medical and Virtual Reality alone is awesome enough.
 
-![image](https://cdn.discordapp.com/attachments/523873121741176833/1193839220276609054/1aa53860-c5e4-4ba4-bac1-aa491c54cb9b-0.jpg?ex=65ae2c6a&is=659bb76a&hm=f718f8d168bd8af1dbf4d7546806b224a86d19cc29f1825c8dc9f74c7b97c310&)
+![image](https://files.catbox.moe/jkau14.jpg)
 
-![image](https://cdn.discordapp.com/attachments/523873121741176833/1193839220704419890/1aa53860-c5e4-4ba4-bac1-aa491c54cb9b-1.jpg?ex=65ae2c6a&is=659bb76a&hm=ee5a3ad3c46e75eb1b5ba5b6a0efa35e5feb6eae23dda22f4e523bc0d111a936&)
+![image](https://files.catbox.moe/ewswoi.jpg)
 
 ## SpellBreaker - Boardgame 
 
